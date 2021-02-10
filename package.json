@@ -1,5 +1,5 @@
 {
-  "name": "connected-react-router",
+  "name": "@ghnacker/connected-react-router",
   "version": "6.8.1",
   "description": "A Redux binding for React Router v4 and v5",
   "main": "lib/index.js",
